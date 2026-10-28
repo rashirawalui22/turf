@@ -1,0 +1,26 @@
+export const IMAGES = {
+  heroStadium:
+    "https://images.unsplash.com/photo-1522778119026-d647f0596c20?auto=format&fit=crop&w=2400&q=80",
+  footballNight:
+    "https://images.unsplash.com/photo-1459865264687-595d652dea12?auto=format&fit=crop&w=1600&q=80",
+  footballClose:
+    "https://images.unsplash.com/photo-1575361204480-aadea25c63d2?auto=format&fit=crop&w=1400&q=80",
+  outdoorTurf:
+    "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?auto=format&fit=crop&w=1400&q=80",
+  tennis:
+    "https://images.unsplash.com/photo-1595435934249-5df7ed86e1c0?auto=format&fit=crop&w=1400&q=80",
+  indoor:
+    "https://images.unsplash.com/photo-1552670807-d9b0412501b0?auto=format&fit=crop&w=1400&q=80",
+  training:
+    "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=1400&q=80",
+  shoes:
+    "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80",
+  golf:
+    "https://images.unsplash.com/photo-1535131749006-b7f58c99034b?auto=format&fit=crop&w=1400&q=80",
+  promoNearby:
+    "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?auto=format&fit=crop&w=1800&q=80",
+  aboutHero:
+    "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=1800&q=80",
+  fallback:
+    "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?auto=format&fit=crop&w=1200&q=80",
+};
